@@ -72,6 +72,7 @@ public class MyThread extends Thread{
                     } 
                 }
                 
+                
                 //關閉輸出入串流
                 br.close();
                 bw.close();
